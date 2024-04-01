@@ -15,7 +15,7 @@ A collection of Exabeam queries to be used for threat hunting & detection
 
 I encourage any contribution of hunting/detection rules to the respository and would love to collaborate on some queries!
 
-Note: Some of the fields being used in published queries may be differ in your environment depending on parsing used in the Exabeam instance. Please test these queries in your environment/Exabeam instance.
+*Note: Some of the fields being used in published queries may be differ in your environment depending on parsing used in the Exabeam instance. Please test these queries in your environment/Exabeam instance.*
 ## Log Sources: 
 The queries in this repository will be querying data from below log sources: 
 
