@@ -26,3 +26,14 @@ The queries in this repository will be querying data from below log sources:
 | Windows | 
 | Linux | 
 | Okta | 
+
+## Contributing
+Please use pull requests for submitting changes to the ExabeamQueries repository. 
+
+Pull requests can be submitted directly through the web interface on Github, this is the easiest way to go about submitting new query or a change to a query.
+
+Mandatory items for inside the file containing the query: 
+* The following text: NOTE: Some of the fields that are being used may be different in your environment depending on parsing.
+* A short text note, with the name of the query/what it does. This should be similar to the name of the file you are creating/editing.
+* The query itself. 
+* Inspiration/Reference at the bottom of the file, if relevant. We want to credit others for work thay may have performed even if their rule was written in a different query language.
