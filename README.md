@@ -32,8 +32,12 @@ Please use pull requests for submitting changes to the ExabeamQueries repository
 
 Pull requests can be submitted directly through the web interface on Github, this is the easiest way to go about submitting new query or a change to a query.
 
+When creating a new file in a directory, or editing a file already in place, you can commit the changes via a button on the web interface. When this is clicked, you will have the option to "Create a new branch for this commit and start a pull request". This is my preffered way of opening pull requests. 
+
 Mandatory items for inside the file containing the query: 
 * The following text: NOTE: Some of the fields that are being used may be different in your environment depending on parsing.
 * A short text note, with the name of the query/what it does. This should be similar to the name of the file you are creating/editing.
 * The query itself. 
 * Inspiration/Reference at the bottom of the file, if relevant. We want to credit others for work thay may have performed even if their rule was written in a different query language.
+
+If there are nay questions around this process i am happy to help and give guidance!
