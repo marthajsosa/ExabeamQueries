@@ -34,6 +34,8 @@ Pull requests can be submitted directly through the web interface on Github, thi
 
 When creating a new file in a directory, or editing a file already in place, you can commit the changes via a button on the web interface. When this is clicked, you will have the option to "Create a new branch for this commit and start a pull request". This is my preffered way of opening pull requests. 
 
+Link to Github pull request Guide: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+
 Mandatory items for inside the file containing the query: 
 * The following text: NOTE: Some of the fields that are being used may be different in your environment depending on parsing.
 * A short text note, with the name of the query/what it does. This should be similar to the name of the file you are creating/editing.
