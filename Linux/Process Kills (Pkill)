@@ -1,7 +1,7 @@
 NOTE: Some of the fields that are being used may be different in your environment depending on parsing. 
 
 Process Kill Using Pkill: 
-product"Bash Audit" AND process_command_line:"pkill"
+product:"Bash Audit" AND process_command_line:"pkill"
 
 ** best to look at this in an aggregate format, setting a threshold if using for a detection rule**
 
