@@ -1,4 +1,4 @@
-_NOTE: Some of these fields that are being used may be different in your environment depending on parsing._ 
+_NOTE: Some of the fields that are being used may be different in your environment depending on parsing._ 
 
 ### IAM User Deletion: 
 `product:"AWS CloudTrail" AND event_name:("DeleteUser","AdminDeleteUser","DeleteUsers")`
